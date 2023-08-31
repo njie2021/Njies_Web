@@ -3,9 +3,13 @@ li {
     display: inline-block;
     font-size: x-large;
     white-space: 50px;
+    
 
 }
 footer{
     padding-top: 300px;
     padding-left: 100px;
+}
+a{
+    background-color:;
 }
