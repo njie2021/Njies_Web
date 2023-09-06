@@ -42,3 +42,6 @@ background-position: center;
     background-image: unset;
 
 }
+p{
+    text-transform: uppercase;
+}
